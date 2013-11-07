@@ -34,7 +34,7 @@ Installation
     * Use [Module Manager](https://github.com/colinmollenhour/modman) 
         
      ```bash
-     modman clone git://github.com/EcomDev/EcomDev_PHPUnit.git 
+     modman clone git://github.com/awers/EcomDev_PHPUnit.git 
      ```
     * Add extension as dependency in your composer.json to install it from [Magento Composer Repository](http://packages.firegento.com/)
       ```json
